@@ -513,7 +513,7 @@ const CounsellorDashboard = (meeturl) => {
                     </div>
                   </div>
                   <p className="text-sm text-gray-600 dark:text-gray-400">
-                    "Very helpful session. Dr. OJ Simpson provided excellent
+                    "Very helpful session. Dr. parker provided excellent
                     coping strategies for managing anxiety."
                   </p>
                   <p className="text-xs text-gray-500 mt-1">
@@ -532,7 +532,7 @@ const CounsellorDashboard = (meeturl) => {
                     </div>
                   </div>
                   <p className="text-sm text-gray-600 dark:text-gray-400">
-                    "Very helpful session. Dr. Dexter provided excellent coping
+                    "Very helpful session. Dr. peter provided excellent coping
                     strategies for managing anxiety."
                   </p>
                   <p className="text-xs text-gray-500 mt-1">
